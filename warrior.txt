@@ -1,0 +1,16 @@
+chatwarrior
+images/chatwarrior/
+chatwarrior1.png
+nbBoutons 4
+400 350 sendwarrior1.png sendwarrior2.png
+495 5 boutonferme1.png boutonferme2.png
+400 325 frequencywarrior1.png frequencywarrior2.png
+475 5 boutonreduit1.png boutonreduit2.png
+nbEdit 2
+14 26 374 289 1
+14 325 374 52 0
+nbList 1
+395 26 113 289
+
+
+

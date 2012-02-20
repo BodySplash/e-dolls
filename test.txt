@@ -1,0 +1,12 @@
+test
+images/
+interface.png
+nbBoutons 4
+400 350 send1.png send2.png
+495 5 boutonferme1.png boutonferme2.png
+400 325 frequency1.png frequency2.png
+475 5 boutonreduit1.png boutonreduit2.png
+
+
+
+

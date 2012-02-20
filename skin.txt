@@ -1,0 +1,16 @@
+chattekki
+images/chattekkie/
+chattekkie1.png
+nbBoutons 4
+400 350 sendtekkie1.png sendtekkie2.png
+495 5 boutonferme1.png boutonferme2.png
+400 325 frequencytekkie1.png frequencytekkie2.png
+475 5 boutonreduit1.png boutonreduit2.png
+nbEdit 2
+14 26 374 289 1
+14 325 374 52 0
+nbList 1
+395 26 113 289
+
+
+
